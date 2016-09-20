@@ -7,7 +7,8 @@ I am [mercy kinot](mercy.com)
 - mISTAKE.. i MEANT ANOTHER
 
 | CLASS | NAME |
+--------|-------
 |KESI | MERCY|
 |AGILE | HAZEL|
 
-tHATS BASICALLY IT
+tHATS BASICALLYT
