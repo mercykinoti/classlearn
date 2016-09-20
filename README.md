@@ -1,14 +1,31 @@
-## This is my Readme
+# This is my Markdowm
+
+## Link
 
 I am [mercy kinot](mercy.com)
 
-- This is a list
-- ANOTHRT LIST
-- mISTAKE.. i MEANT ANOTHER
+## List
+
+- School
+- Hospital
+- Hotel
+
+## Table
 
 | CLASS | NAME |
 --------|-------
 |KESI | MERCY|
 |AGILE | HAZEL|
+ 
+## Text
 
-tHATS BASICALLYT
+This is an interesting experience
+
+## Image
+
+![Mercy Cooking](/image/cook.jpg)
+
+## Emoji
+
+:smiling:
+
